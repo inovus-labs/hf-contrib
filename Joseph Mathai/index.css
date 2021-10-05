@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;     
+}
+
+header{
+    background-image:linear-gradient(rgb(255, 255, 255),
+    rgb(255, 255, 255)), url("E:\hacktober\img_20170519_220534.jpg");
+    height: 10vh;
+    background-size: cover;
+    background-position: center;
+}
+
+header img{
+    width: 200vh;
+    height: 95vh;
+    position: center;
+    left: 10px;
+    top: 0px;
+}
+
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 50vh;
+    size: 100vh;
+}
+.gallery img{
+    width: 75vh;
+    height: 75vh;
+    position: absolute;
+    left: 150px;
+    top: 80px;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+}
+
+.title h2{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+.title h4{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.title h5{
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+}
+
+.button{
+    position: absolute;
+    top: 82%;
+    left: 69%;
+    transform: translate(-50%,-50%);
+}
+
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
