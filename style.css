@@ -1,0 +1,53 @@
+body {
+  background: #adadad;
+  background: -webkit-linear-gradient(to right, #000000, #000000);
+  background: linear-gradient(to right, #747474, #747474);
+  min-height: 100vh;
+}
+
+h2{
+color: rgb(247, 247, 247);    
+}
+
+H4{
+  COLOR:rgb(0, 113, 133);
+}
+p{
+  text-align: left;
+  font-size: 17px;
+  COLOR:rgb(1, 87, 102);
+}
+
+.bg
+{
+  
+ 
+  background-color: rgb(0, 111, 119);
+ 
+}
+
+a:link {
+ color: rgb(179, 255, 255);
+  text-decoration: none;
+
+}
+
+a:visited {
+ color: cyan;
+  text-decoration: none;
+}
+
+a:hover {
+ color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:active {
+ color: rgb(255, 255, 255);
+} 
+.bgm
+{
+background-color: #cfcfcf;  
+
+}
+  
