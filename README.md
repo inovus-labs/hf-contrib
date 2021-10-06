@@ -25,3 +25,12 @@ If the **Pull Request** seems to be acceptable, the Maintainer will label the PR
   - **Profile Summary** under the Heading ```Overview``` (Preferably LinkedIn Summary)
   - **Social Media Icons** with appropriate connections _(Non-Mandatory)_
 - Use [Bootstrap](https://getbootstrap.com/) for more felixiblity & easy development.
+
+**Every sucessful contribution thier names will be updated here**
+
+## Contributors
+
+- [Arjun Krishna]()
+- [Jeevan Joseph]()
+- [Sreelakshmi Anilkumar]()
+- [Ashima Shajahan]()
