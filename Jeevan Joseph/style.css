@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+}
+
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        rgba(252, 252, 52, 0.897) 0%,
+        rgba(252, 252, 52, 0.897) 30%,
+        rgba(26, 25, 25, 0.938) 30%,
+        rgba(26, 25, 25, 0.938) 100%
+    );
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    
+}
+.boy{
+
+    height: auto;
+    width: 25%;
+    clip-path: circle();
+    position: absolute;
+    top: 18%;
+    right: 60%;
+    
+    
+}
+h1{
+    align-items: center;
+    position: absolute;
+    color: azure;
+    
+}
+
+
+
+
+

@@ -25,3 +25,15 @@ If the **Pull Request** seems to be acceptable, the Maintainer will label the PR
   - **Profile Summary** under the Heading ```Overview``` (Preferably LinkedIn Summary)
   - **Social Media Icons** with appropriate connections _(Non-Mandatory)_
 - Use [Bootstrap](https://getbootstrap.com/) for more felixiblity & easy development.
+
+### **After every sucessful contribution thier names will be updated here**
+
+## Who all did Contribute ? 
+
+- [Arjun Krishna](https://github.com/decoded-cipher)
+- [Jeevan Joseph](https://github.com/Jeevan1310)
+- [Sreelakshmi Anilkumar](https://github.com/Sreelakshmi393)
+- [Ashima Shajahan](https://github.com/Ashima323)
+- [Joseph Mathai](https://github.com/josephmathai10)
+- [Sandra Krishnan](https://github.com/krishnansandra)
+- [Aravinth S Kumar](https://github.com/Aravinthskumar)
