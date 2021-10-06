@@ -35,4 +35,4 @@ If the **Pull Request** seems to be acceptable, the Maintainer will label the PR
 - [Sreelakshmi Anilkumar]()
 - [Ashima Shajahan]()
 - [Joseph Mathai]()
-- [sandra krishnan]()
+- [Sandra krishnan]()
