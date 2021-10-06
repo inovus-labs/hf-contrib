@@ -26,7 +26,7 @@ If the **Pull Request** seems to be acceptable, the Maintainer will label the PR
   - **Social Media Icons** with appropriate connections _(Non-Mandatory)_
 - Use [Bootstrap](https://getbootstrap.com/) for more felixiblity & easy development.
 
-**Every sucessful contribution thier names will be updated here**
+### **Every sucessful contribution thier names will be updated here**
 
 ## Contributors
 
