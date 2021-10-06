@@ -28,7 +28,7 @@ If the **Pull Request** seems to be acceptable, the Maintainer will label the PR
 
 ### **After every sucessful contribution thier names will be updated here**
 
-## Contributors
+## Who all did Contribute ? 
 
 - [Arjun Krishna](https://github.com/decoded-cipher)
 - [Jeevan Joseph](https://github.com/Jeevan1310)
